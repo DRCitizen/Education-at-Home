@@ -1,0 +1,96 @@
+body {
+    background-color: #3fbcc3; 
+    color: #ffffff; 
+    font-size: 21px;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url(../images/régions_France.png);
+    
+
+    
+    
+
+}
+
+
+
+div {
+
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+
+.box1 {
+
+    background: #32a852;
+
+}
+
+.box2 {
+
+    background: rgb(0, 255, 153);
+
+}
+
+.box3 {
+
+    background: firebrick;
+
+}
+
+.box4 {
+
+    background: orange;
+
+}
+
+.box5 {
+
+    background: yellow;
+
+    clear: both;
+
+}
+
+.box6 {
+
+    background: lime;
+
+}
+
+.box7 {
+
+    background: aqua;
+
+}
+
+.box8 {
+
+    background: hsl(336, 100%, 50%);
+    width: 200px;
+    height: 200px;
+    float: left;
+
+}
+
+.box9 {
+
+    
+    background: rgba(204, 102, 255,.75);
+    width: 200px;
+    height: 200px;
+    float: left;
+
+}
+
+.box10 {
+
+    
+    background:rgb(51, 153, 255, .75);
+    width: 200px;
+    height: 200px;
+    float: left;
+
+}

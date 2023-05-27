@@ -1,0 +1,68 @@
+  body {
+    background-color: #f2f2f;
+    color: black;
+    font-family: sans-serif;
+    font-size: 20px;
+  }
+
+  /*Това е пример за коментар в HTML*/
+
+  p {
+
+    color:
+  }
+
+  h1 {
+    font-size: 55px;
+    color: #6699ff;
+  }
+
+  .forword {
+    font-size: 20px;
+    color: white;
+  }
+
+  .highlight {
+
+    background: yellow;
+
+  }
+
+  .accent-color {
+
+    background: red;
+  }
+
+  #collumn-left {
+
+    background: #66b3ff;
+    width: 500px;
+
+  }
+
+  #collumn-right {
+
+    background: #0066cc;
+    width: 400px;
+
+  }
+
+
+  .box {
+    background:#3385ff;
+    width: 300px;
+
+    margin: 100px 0 200px;
+
+    border-left-width: 5px;
+    border-left-color: red;
+    border-left-style:dashed;
+
+    border-right-width: 10px;
+    border-right-color: black;
+    border-right-style:double;
+
+    padding: 50px 100px 300px 25px;
+  }
+
+  /* Разликата между margin и padding. При margin се оставя разстояние във външния периметър около даденият обект в HTML кода на нашата уеб страница, като в зависимист от желанието ни,ние можем да настройваме колко и как да бъде позиционирано това разстояние. Докато при padding отново се оставя разстояние, но този път във вътрешния периметър около даденият обект в HTML, като тук също можем да го настройваме. Като също така в случай че нашият обект е обозначен с определен цвят на фона, различен от фона на уеб страницата, то тази функция може да се използва за увеличаване на пространството запълнено именно с този цвят.

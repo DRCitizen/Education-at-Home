@@ -1,0 +1,64 @@
+body {
+    background-color: #809fff; 
+    color: #ffffff; 
+    font-size: 21px;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    text-align: justify;
+}
+
+
+h1 {
+    font-size: 41px;
+    color: #f5f5f0;
+    font-family: Arial, Helvetica, sans-serif;
+
+    margin-bottom: 0px;
+}
+
+h2  {
+    color: #f5f5f0;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+/* Това е коментар в нашия стилов файл */
+
+p {
+    margin-top: 0px;
+    margin-bottom: 10px;
+    line-height: 1.4;
+    /*background-color: #00cc66;*/
+
+    clear: both;
+    
+}
+
+
+.red-box {
+
+    /*height: 500px;*/
+    width: 500px;
+    background: rgba(255,0,0,.5);
+    float: left;
+    
+
+}
+
+.blue-box {
+
+   /* height: 400px;*/
+    width: 500px;
+    background: #006699;
+    float: right;
+}
+
+img {
+
+    /*float: left;
+    
+    float: right;
+    margin-left: 20px;
+    */
+}

@@ -1,0 +1,57 @@
+body {
+    background-color: #ffff99; 
+    color: #0099cc; 
+    font-size: 21px;
+}
+
+p {
+    color: black;
+}
+
+h1 {
+    font-size: 41px;
+    color: #669999;
+}
+
+h2  {
+    color: #666666
+}
+
+div {
+    background: #0099cc;
+    width: 500px;
+    
+}
+
+.intro{
+
+    font-size: 30px;
+    color: #ffffff
+}
+
+span {
+    color: #0099cc;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.top-section {
+
+    
+}
+
+.bottom-section {
+
+   
+}
+
+.highlight {
+
+    background: #ffff33;
+}
+
+.accent-color {
+
+    color: #66ff33;
+}

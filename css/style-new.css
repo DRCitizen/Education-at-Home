@@ -1,0 +1,43 @@
+body {
+    background-color: #4d62a1; 
+    color: #ffffff; 
+    font-size: 21px;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    text-align: justify;
+}
+
+
+.box1 {
+
+    background: pink;
+}
+
+.box2 {
+
+    background: red;
+}
+
+.box3 {
+
+    background: firebrick;
+}
+
+.box4{
+
+    background: orange;
+}
+
+.box5 {
+
+    background: yellow;
+
+    clear: both;
+}
+
+.box6 {
+
+    background: lime;
+}
+
